@@ -17,12 +17,6 @@ Designed to improve focus using the Pomodoro Technique with a polished UI and sa
 
 ---
 
-## 📂 Project Structure
-pomodoro-timer/
-│
-├── pomodoro.py # Main application
-├── tomato.png # UI image asset (optional)
-├── README.md
 
 ---
 
